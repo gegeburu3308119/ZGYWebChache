@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZGYWebChache"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "轻量级图片下载框架"
 
   # This description is used to generate tags and improve search results.

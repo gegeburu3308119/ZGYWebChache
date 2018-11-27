@@ -156,6 +156,8 @@
 				F65AE29321AC06C1003DD6B4 /* ZCImageDownOperation.m */,
 				F65AE29521AC0A1D003DD6B4 /* ZCImageCacheManager.h */,
 				F65AE29621AC0A1D003DD6B4 /* ZCImageCacheManager.m */,
+				F65AE28F21AC046F003DD6B4 /* UIImage+Decode.h */,
+				F65AE29021AC046F003DD6B4 /* UIImage+Decode.m */,
 				F65AE29821AC1EF9003DD6B4 /* ZCWebImageManager.h */,
 				F65AE29921AC1EF9003DD6B4 /* ZCWebImageManager.m */,
 			);
@@ -165,8 +167,6 @@
 		F65AE28E21AC03E2003DD6B4 /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				F65AE28F21AC046F003DD6B4 /* UIImage+Decode.h */,
-				F65AE29021AC046F003DD6B4 /* UIImage+Decode.m */,
 				F65AE29E21AC2B02003DD6B4 /* UIImageView+ZCWebChache.h */,
 				F65AE29F21AC2B02003DD6B4 /* UIImageView+ZCWebChache.m */,
 			);
