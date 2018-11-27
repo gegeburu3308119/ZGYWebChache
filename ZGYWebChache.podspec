@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZGYWebChache"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "轻量级图片下载框架"
 
   # This description is used to generate tags and improve search results.
@@ -89,7 +89,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "ZCTSJWebImage/ZCTSJWebImage/ZCTSJWebImage/**"
+  spec.source_files  = "ZCTSJWebImage/ZCTSJWebImage/ZCTSJWebImage/**/*"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
